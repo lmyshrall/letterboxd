@@ -10,7 +10,7 @@ Feedback is welcome on this repository. Please submit concerns or ideas as issue
 
 ## What is in this Repository?
 * Data
-  * [Raw letterboxd dataset](data\letterboxd.csv), CSV format
+  * [Raw letterboxd dataset](data/letterboxd.csv), CSV format
 
 * Code
   * In progress...check back soon!
