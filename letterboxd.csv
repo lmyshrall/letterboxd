@@ -1,0 +1,101 @@
+rank,title,director,release_year,genre,rating,language,country,runtime,url
+1,Parasite,Bong Joon Ho,2019,"['Thriller', 'Comedy', 'Drama']",4.54 out of 5,Korean,['South Korea'],133 mins,https://letterboxd.com/film/parasite-2019/
+2,Mulholland Drive,David Lynch,2001,"['Drama', 'Mystery', 'Thriller']",4.26 out of 5,English,"['France', 'USA']",147 mins,https://letterboxd.com/film/mulholland-drive/
+3,There Will Be Blood,Paul Thomas Anderson,2007,['Drama'],4.46 out of 5,English,['USA'],158 mins,https://letterboxd.com/film/there-will-be-blood/
+4,In the Mood for Love,Wong Kar-wai,2000,"['Romance', 'Drama']",4.39 out of 5,Cantonese,"['Hong Kong', 'France']",98 mins,https://letterboxd.com/film/in-the-mood-for-love/
+5,Moonlight,Barry Jenkins,2016,['Drama'],4.20 out of 5,English,['USA'],111 mins,https://letterboxd.com/film/moonlight-2016/
+6,No Country for Old Men,Joel Coen,2007,"['Crime', 'Thriller', 'Drama']",4.32 out of 5,English,['USA'],122 mins,https://letterboxd.com/film/no-country-for-old-men/
+7,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,"['Science Fiction', 'Romance', 'Drama']",4.24 out of 5,English,['USA'],108 mins,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/
+8,Get Out,Jordan Peele,2017,"['Horror', 'Mystery', 'Thriller']",4.15 out of 5,English,['USA'],104 mins,https://letterboxd.com/film/get-out-2017/
+9,Spirited Away,Hayao Miyazaki,2001,"['Family', 'Fantasy', 'Animation']",4.45 out of 5,Japanese,['Japan'],125 mins,https://letterboxd.com/film/spirited-away/
+10,The Social Network,David Fincher,2010,['Drama'],3.93 out of 5,English,['USA'],121 mins,https://letterboxd.com/film/the-social-network/
+11,Mad Max: Fury Road,George Miller,2015,"['Science Fiction', 'Adventure', 'Action']",4.18 out of 5,English,"['Australia', 'USA']",121 mins,https://letterboxd.com/film/mad-max-fury-road/
+12,The Zone of Interest,Jonathan Glazer,2023,"['Drama', 'History', 'War']",3.86 out of 5,German,"['Poland', 'UK', 'USA']",105 mins,https://letterboxd.com/film/the-zone-of-interest/
+13,Children of Men,Alfonso Cuarón,2006,"['Action', 'Drama', 'Science Fiction', 'Thriller']",4.30 out of 5,English,"['UK', 'USA']",109 mins,https://letterboxd.com/film/children-of-men/
+14,Inglourious Basterds,Quentin Tarantino,2009,"['War', 'Drama', 'Thriller']",4.35 out of 5,English,"['Germany', 'USA']",153 mins,https://letterboxd.com/film/inglourious-basterds/
+15,City of God,Fernando Meirelles,2002,"['Drama', 'Crime']",4.55 out of 5,Portuguese,"['Brazil', 'France', 'Germany']",129 mins,https://letterboxd.com/film/city-of-god/
+16,"Crouching Tiger, Hidden Dragon",Ang Lee,2000,"['Drama', 'Romance', 'Action', 'Adventure']",4.07 out of 5,Chinese,"['Hong Kong', 'Taiwan', 'USA', 'China']",120 mins,https://letterboxd.com/film/crouching-tiger-hidden-dragon/
+17,Brokeback Mountain,Ang Lee,2005,"['Drama', 'Romance']",4.14 out of 5,English,"['Canada', 'USA']",134 mins,https://letterboxd.com/film/brokeback-mountain/
+18,Y Tu Mamá También,Alfonso Cuarón,2001,"['Romance', 'Drama']",4.21 out of 5,Spanish,['Mexico'],106 mins,https://letterboxd.com/film/y-tu-mama-tambien/
+19,Zodiac,David Fincher,2007,"['Crime', 'Mystery', 'Drama', 'Thriller']",4.02 out of 5,English,['USA'],157 mins,https://letterboxd.com/film/zodiac/
+20,The Wolf of Wall Street,Martin Scorsese,2013,"['Comedy', 'Drama', 'Crime']",3.99 out of 5,English,['USA'],180 mins,https://letterboxd.com/film/the-wolf-of-wall-street/
+21,The Royal Tenenbaums,Wes Anderson,2001,"['Drama', 'Comedy']",4.11 out of 5,English,['USA'],110 mins,https://letterboxd.com/film/the-royal-tenenbaums/
+22,The Grand Budapest Hotel,Wes Anderson,2014,"['Comedy', 'Drama']",4.24 out of 5,English,"['USA', 'Germany']",100 mins,https://letterboxd.com/film/the-grand-budapest-hotel/
+23,Boyhood,Richard Linklater,2014,['Drama'],3.83 out of 5,English,['USA'],166 mins,https://letterboxd.com/film/boyhood/
+24,Her,Spike Jonze,2013,"['Science Fiction', 'Romance', 'Drama']",3.98 out of 5,English,['USA'],126 mins,https://letterboxd.com/film/her/
+25,Phantom Thread,Paul Thomas Anderson,2017,"['Drama', 'Romance']",4.15 out of 5,English,"['USA', 'China']",130 mins,https://letterboxd.com/film/phantom-thread/
+26,Anatomy of a Fall,Justine Triet,2023,"['Crime', 'Thriller', 'Mystery']",4.13 out of 5,French,['France'],151 mins,https://letterboxd.com/film/anatomy-of-a-fall/
+27,Adaptation.,Spike Jonze,2002,"['Drama', 'Comedy', 'Crime']",4.11 out of 5,English,['USA'],115 mins,https://letterboxd.com/film/adaptation/
+28,The Dark Knight,Christopher Nolan,2008,"['Drama', 'Thriller', 'Action', 'Crime']",4.48 out of 5,English,"['UK', 'USA']",152 mins,https://letterboxd.com/film/the-dark-knight/
+29,Arrival,Denis Villeneuve,2016,"['Mystery', 'Science Fiction', 'Drama']",4.13 out of 5,English,['USA'],116 mins,https://letterboxd.com/film/arrival-2016/
+30,Lost in Translation,Sofia Coppola,2003,"['Comedy', 'Romance', 'Drama']",3.78 out of 5,English,"['UK', 'USA']",102 mins,https://letterboxd.com/film/lost-in-translation/
+31,The Departed,Martin Scorsese,2006,"['Thriller', 'Crime', 'Drama']",4.32 out of 5,English,"['Hong Kong', 'USA']",151 mins,https://letterboxd.com/film/the-departed/
+32,Bridesmaids,Paul Feig,2011,"['Comedy', 'Romance']",3.43 out of 5,English,['USA'],125 mins,https://letterboxd.com/film/bridesmaids/
+33,A Separation,Asghar Farhadi,2011,['Drama'],4.37 out of 5,Persian (Farsi),"['France', 'Iran']",123 mins,https://letterboxd.com/film/a-separation/
+34,WALL·E,Andrew Stanton,2008,"['Animation', 'Science Fiction', 'Family']",4.22 out of 5,English,['USA'],98 mins,https://letterboxd.com/film/walle/
+35,A Prophet,Jacques Audiard,2009,"['Crime', 'Drama']",4.18 out of 5,French,"['France', 'Italy']",155 mins,https://letterboxd.com/film/a-prophet/
+36,A Serious Man,Ethan Coen,2009,"['Comedy', 'Drama']",3.87 out of 5,English,"['USA', 'UK', 'France']",106 mins,https://letterboxd.com/film/a-serious-man/
+37,Call Me by Your Name,Luca Guadagnino,2017,"['Romance', 'Drama']",3.86 out of 5,English,"['Brazil', 'France', 'Italy', 'USA']",132 mins,https://letterboxd.com/film/call-me-by-your-name/
+38,Portrait of a Lady on Fire,Céline Sciamma,2019,"['Drama', 'Romance', 'History']",4.42 out of 5,French,['France'],121 mins,https://letterboxd.com/film/portrait-of-a-lady-on-fire/
+39,Lady Bird,Greta Gerwig,2017,"['Comedy', 'Drama']",3.84 out of 5,English,['USA'],94 mins,https://letterboxd.com/film/lady-bird/
+40,Yi Yi,Edward Yang,2000,['Drama'],4.54 out of 5,Chinese,"['Japan', 'Taiwan']",174 mins,https://letterboxd.com/film/yi-yi/
+41,Amélie,Jean-Pierre Jeunet,2001,"['Romance', 'Comedy']",4.19 out of 5,French,"['France', 'Germany']",122 mins,https://letterboxd.com/film/amelie/
+42,The Master,Paul Thomas Anderson,2012,['Drama'],4.00 out of 5,English,['USA'],137 mins,https://letterboxd.com/film/the-master-2012/
+43,Oldboy,Park Chan-wook,2003,"['Thriller', 'Mystery', 'Drama', 'Action']",4.38 out of 5,Korean,['South Korea'],120 mins,https://letterboxd.com/film/oldboy/
+44,Once Upon a Time... in Hollywood,Quentin Tarantino,2019,"['Thriller', 'Drama', 'Comedy']",3.76 out of 5,English,"['China', 'UK', 'USA']",162 mins,https://letterboxd.com/film/once-upon-a-time-in-hollywood/
+45,Moneyball,Bennett Miller,2011,['Drama'],3.91 out of 5,English,['USA'],134 mins,https://letterboxd.com/film/moneyball/
+46,Roma,Alfonso Cuarón,2018,['Drama'],4.09 out of 5,Spanish,"['UK', 'USA']",135 mins,https://letterboxd.com/film/roma-2018/
+47,Almost Famous,Cameron Crowe,2000,"['Drama', 'Music']",4.07 out of 5,English,['USA'],124 mins,https://letterboxd.com/film/almost-famous/
+48,The Lives of Others,Florian Henckel von Donnersmarck,2006,"['Drama', 'Thriller']",4.29 out of 5,German,"['Germany', 'France']",137 mins,https://letterboxd.com/film/the-lives-of-others/
+49,Before Sunset,Richard Linklater,2004,"['Drama', 'Romance']",4.33 out of 5,English,['USA'],80 mins,https://letterboxd.com/film/before-sunset/
+50,Up,Pete Docter,2009,"['Adventure', 'Family', 'Animation', 'Comedy']",4.10 out of 5,English,['USA'],96 mins,https://letterboxd.com/film/up/
+51,12 Years a Slave,Steve McQueen,2013,"['History', 'Drama']",4.15 out of 5,English,"['UK', 'USA']",134 mins,https://letterboxd.com/film/12-years-a-slave/
+52,The Favourite,Yorgos Lanthimos,2018,"['Drama', 'Comedy', 'History']",4.01 out of 5,English,"['Ireland', 'UK', 'USA']",120 mins,https://letterboxd.com/film/the-favourite/
+53,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Larry Charles,2006,['Comedy'],3.73 out of 5,English,"['UK', 'USA']",84 mins,https://letterboxd.com/film/borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan/
+54,Pan's Labyrinth,Guillermo del Toro,2006,"['War', 'Drama', 'Fantasy']",4.16 out of 5,Spanish,"['Mexico', 'Spain', 'USA']",118 mins,https://letterboxd.com/film/pans-labyrinth/
+55,Inception,Christopher Nolan,2010,"['Action', 'Adventure', 'Science Fiction']",4.22 out of 5,English,['USA'],148 mins,https://letterboxd.com/film/inception/
+56,Punch-Drunk Love,Paul Thomas Anderson,2002,"['Drama', 'Romance', 'Comedy']",3.98 out of 5,English,['USA'],96 mins,https://letterboxd.com/film/punch-drunk-love/
+57,Best in Show,Christopher Guest,2000,['Comedy'],3.87 out of 5,English,['USA'],90 mins,https://letterboxd.com/film/best-in-show/
+58,Uncut Gems,Josh Safdie,2019,"['Crime', 'Thriller', 'Drama']",3.95 out of 5,English,['USA'],136 mins,https://letterboxd.com/film/uncut-gems/
+59,Toni Erdmann,Maren Ade,2016,"['Comedy', 'Drama']",3.96 out of 5,German,"['Austria', 'France', 'Germany', 'Romania']",162 mins,https://letterboxd.com/film/toni-erdmann/
+60,Whiplash,Damien Chazelle,2014,"['Drama', 'Music']",4.42 out of 5,English,['USA'],107 mins,https://letterboxd.com/film/whiplash-2014/
+61,Kill Bill: Vol. 1,Quentin Tarantino,2003,"['Crime', 'Action']",4.21 out of 5,English,['USA'],111 mins,https://letterboxd.com/film/kill-bill-vol-1/
+62,Memento,Christopher Nolan,2000,"['Thriller', 'Mystery']",4.18 out of 5,English,['USA'],113 mins,https://letterboxd.com/film/memento/
+63,Little Miss Sunshine,Jonathan Dayton,2006,"['Drama', 'Comedy']",4.20 out of 5,English,['USA'],102 mins,https://letterboxd.com/film/little-miss-sunshine/
+64,Gone Girl,David Fincher,2014,"['Drama', 'Mystery', 'Thriller']",4.07 out of 5,English,['USA'],149 mins,https://letterboxd.com/film/gone-girl/
+65,Oppenheimer,Christopher Nolan,2023,"['Drama', 'History']",4.18 out of 5,English,"['UK', 'USA']",181 mins,https://letterboxd.com/film/oppenheimer-2023/
+66,Spotlight,Tom McCarthy,2015,"['History', 'Drama']",4.11 out of 5,English,['USA'],129 mins,https://letterboxd.com/film/spotlight/
+67,TÁR,Todd Field,2022,"['Music', 'Drama']",3.93 out of 5,English,['USA'],158 mins,https://letterboxd.com/film/tar-2022/
+68,The Hurt Locker,Kathryn Bigelow,2008,"['Drama', 'Thriller', 'War']",3.76 out of 5,English,"['USA', 'UK']",131 mins,https://letterboxd.com/film/the-hurt-locker/
+69,Under the Skin,Jonathan Glazer,2013,"['Science Fiction', 'Thriller', 'Horror', 'Drama']",3.61 out of 5,English,"['UK', 'USA']",108 mins,https://letterboxd.com/film/under-the-skin-2013/
+70,Let the Right One In,Tomas Alfredson,2008,"['Horror', 'Drama']",4.04 out of 5,Swedish,"['Germany', 'Sweden']",115 mins,https://letterboxd.com/film/let-the-right-one-in/
+71,Ocean's Eleven,Steven Soderbergh,2001,"['Thriller', 'Crime']",3.92 out of 5,English,['USA'],116 mins,https://letterboxd.com/film/oceans-eleven-2001/
+72,Carol,Todd Haynes,2015,"['Drama', 'Romance']",4.01 out of 5,English,"['UK', 'USA']",118 mins,https://letterboxd.com/film/carol-2015/
+73,Ratatouille,Brad Bird,2007,"['Family', 'Fantasy', 'Animation', 'Comedy']",4.22 out of 5,English,['USA'],111 mins,https://letterboxd.com/film/ratatouille/
+74,The Florida Project,Sean Baker,2017,['Drama'],4.10 out of 5,English,['USA'],112 mins,https://letterboxd.com/film/the-florida-project/
+75,Amour,Michael Haneke,2012,"['Drama', 'Romance']",4.23 out of 5,French,"['France', 'Germany', 'Austria']",127 mins,https://letterboxd.com/film/amour/
+76,"O Brother, Where Art Thou?",Joel Coen,2000,"['Comedy', 'Adventure', 'Crime']",3.95 out of 5,English,"['France', 'UK', 'USA']",107 mins,https://letterboxd.com/film/o-brother-where-art-thou/
+77,Everything Everywhere All at Once,Daniel Scheinert,2022,"['Science Fiction', 'Adventure', 'Comedy', 'Action']",4.27 out of 5,English,['USA'],140 mins,https://letterboxd.com/film/everything-everywhere-all-at-once/
+78,Aftersun,Charlotte Wells,2022,['Drama'],4.22 out of 5,English,"['UK', 'USA']",101 mins,https://letterboxd.com/film/aftersun/
+79,The Tree of Life,Terrence Malick,2011,"['Fantasy', 'Drama']",3.85 out of 5,English,['USA'],139 mins,https://letterboxd.com/film/the-tree-of-life-2011/
+80,Volver,Pedro Almodóvar,2006,"['Drama', 'Romance', 'Comedy']",4.08 out of 5,Spanish,['Spain'],121 mins,https://letterboxd.com/film/volver/
+81,Black Swan,Darren Aronofsky,2010,"['Drama', 'Thriller', 'Horror']",4.16 out of 5,English,['USA'],109 mins,https://letterboxd.com/film/black-swan/
+82,The Act of Killing,Joshua Oppenheimer,2012,['Documentary'],4.40 out of 5,Indonesian,"['Denmark', 'Norway', 'UK', 'Indonesia']",117 mins,https://letterboxd.com/film/the-act-of-killing/
+83,Inside Llewyn Davis,Joel Coen,2013,"['Music', 'Drama']",4.03 out of 5,English,"['France', 'UK']",104 mins,https://letterboxd.com/film/inside-llewyn-davis/
+84,Melancholia,Lars von Trier,2011,"['Drama', 'Science Fiction']",3.84 out of 5,English,"['Denmark', 'France', 'Germany', 'Sweden']",130 mins,https://letterboxd.com/film/melancholia/
+85,Anchorman: The Legend of Ron Burgundy,Adam McKay,2004,['Comedy'],3.49 out of 5,English,['USA'],95 mins,https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy/
+86,Past Lives,Celine Song,2023,"['Drama', 'Romance']",4.17 out of 5,English,"['South Korea', 'USA']",106 mins,https://letterboxd.com/film/past-lives/
+87,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,"['Adventure', 'Action', 'Fantasy']",4.38 out of 5,English,"['New Zealand', 'USA']",179 mins,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/
+88,The Gleaners and I,Agnès Varda,2000,['Documentary'],4.25 out of 5,French,['France'],82 mins,https://letterboxd.com/film/the-gleaners-and-i/
+89,Interstellar,Christopher Nolan,2014,"['Science Fiction', 'Drama', 'Adventure']",4.42 out of 5,English,"['UK', 'USA']",169 mins,https://letterboxd.com/film/interstellar/
+90,Frances Ha,Noah Baumbach,2012,"['Comedy', 'Drama']",4.04 out of 5,English,"['Brazil', 'USA']",86 mins,https://letterboxd.com/film/frances-ha/
+91,Fish Tank,Andrea Arnold,2009,['Drama'],3.84 out of 5,English,"['Netherlands', 'UK']",123 mins,https://letterboxd.com/film/fish-tank/
+92,Gladiator,Ridley Scott,2000,"['Action', 'Adventure', 'Drama']",4.15 out of 5,English,"['UK', 'USA']",155 mins,https://letterboxd.com/film/gladiator-2000/
+93,Michael Clayton,Tony Gilroy,2007,"['Crime', 'Drama', 'Thriller']",3.84 out of 5,English,['USA'],119 mins,https://letterboxd.com/film/michael-clayton/
+94,Minority Report,Steven Spielberg,2002,"['Thriller', 'Science Fiction', 'Action']",3.77 out of 5,English,['USA'],145 mins,https://letterboxd.com/film/minority-report/
+95,The Worst Person in the World,Joachim Trier,2021,"['Drama', 'Romance', 'Comedy']",4.09 out of 5,Norwegian,"['Norway', 'Sweden', 'Denmark', 'France']",128 mins,https://letterboxd.com/film/the-worst-person-in-the-world/
+96,Black Panther,Ryan Coogler,2018,"['Adventure', 'Science Fiction', 'Action']",3.68 out of 5,English,['USA'],135 mins,https://letterboxd.com/film/black-panther/
+97,Gravity,Alfonso Cuarón,2013,"['Thriller', 'Science Fiction', 'Drama']",3.51 out of 5,English,"['UK', 'USA']",91 mins,https://letterboxd.com/film/gravity-2013/
+98,Grizzly Man,Werner Herzog,2005,['Documentary'],4.13 out of 5,English,['USA'],103 mins,https://letterboxd.com/film/grizzly-man/
+99,Memories of Murder,Bong Joon Ho,2003,"['Thriller', 'Crime', 'Drama']",4.42 out of 5,Korean,['South Korea'],131 mins,https://letterboxd.com/film/memories-of-murder/
+100,Superbad,Greg Mottola,2007,['Comedy'],3.89 out of 5,English,['USA'],113 mins,https://letterboxd.com/film/superbad/
